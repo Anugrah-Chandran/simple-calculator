@@ -1,3 +1,6 @@
+'''Author: Anugrah Chandran
+Date: 25-10-24
+Description:Simple desktop calculator using Python.  '''
 num1=int(input("Enter your first number"))
 num2=int(input("Enter your second number"))
 num3=int(input("Enter your third number"))
